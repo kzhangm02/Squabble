@@ -1,7 +1,7 @@
 # Squabble
 A program to play Squabble
 
-Run the main method in Main.java and open a Squabble game in a new window. The Squabble board must be entirely visible on the screen.
+Run the main method in `Main.java` and open a Squabble game in a new window. The Squabble board must be entirely visible on the screen.
 
 ### Algorithm
 
