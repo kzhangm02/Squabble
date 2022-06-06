@@ -1,5 +1,6 @@
 # Squabble
-A program to play Squabble
+A program to play Squabble, a real-time multiplayer game based on Wordle.
+https://squabble.me/
 
 Run the main method in `Main.java` and open a Squabble game in a new window. The Squabble board must be entirely visible on the screen.
 
